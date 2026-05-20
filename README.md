@@ -94,7 +94,7 @@ Story Intelligence - MVP/
 │   ├── package.json
 │
 ├── README.md
-
+```
 ---
 
 ## Architecture
@@ -105,3 +105,4 @@ React Frontend
 FastAPI Backend
 ↓
 OpenRouter LLM API
+```
