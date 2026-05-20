@@ -78,7 +78,7 @@ This MVP explores how AI-assisted editorial tooling could support serialized sto
 - Render (Backend)
 
 ---
-###Project Structure
+### Project Structure
 
 ```plaintext
 Story Intelligence - MVP/
