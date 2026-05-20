@@ -79,6 +79,8 @@ This MVP explores how AI-assisted editorial tooling could support serialized sto
 
 ---
 ###Project Structure
+
+```plaintext
 Story Intelligence - MVP/
 │
 ├── Backend/
