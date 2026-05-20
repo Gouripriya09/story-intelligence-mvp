@@ -8,6 +8,8 @@ AI-assisted editorial intelligence platform for narrative analysis, rewrite depe
 
 url: https://story-intelligence-mvp.vercel.app
 
+PRD: https://docs.google.com/document/d/1sDUMFveaATNuBaJnNeCui5T7bmG8vlUg/edit?usp=drive_link&ouid=104546226123828362615&rtpof=true&sd=true
+
 
 ---
 
